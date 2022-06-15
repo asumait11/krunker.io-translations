@@ -1,6 +1,6 @@
 module.exports = `
 menu.btn.ranked Ranked
-menu.btn.shop Shop
+menu.btn.shop المتجر
 menu.btn.social Hub
 menu.btn.maps Games
 menu.btn.mods Mods
