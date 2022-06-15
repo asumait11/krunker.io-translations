@@ -1,22 +1,22 @@
 module.exports = `
-menu.btn.ranked Ranked
+menu.btn.ranked لعب المرتبة
 menu.btn.shop المتجر
-menu.btn.social Hub
-menu.btn.maps Games
-menu.btn.mods Mods
-menu.btn.settings Settings
-menu.btn.customize Customize
-menu.btn.invite Invite
-menu.btn.invite.clicked Copied
-menu.btn.join Join
-menu.btn.host Host Game
-menu.btn.browser Servers
-generic.wait Please wait...
-generic.loading LOADING...
-generic.none None
-generic.connecting CONNECTING...
-generic.select Select
-generic.delete Delete
+menu.btn.social المركز الاجتماعي
+menu.btn.maps الألعاب
+menu.btn.mods تعديلات
+menu.btn.settings الإعدادات
+menu.btn.customize تخصيص
+menu.btn.invite دعوة
+menu.btn.invite.clicked تم النسخ
+menu.btn.join انضم
+menu.btn.host انشئ لعبة
+menu.btn.browser الخوادم
+generic.wait ...يرجى الانتظار
+generic.loading ...جار التحميل
+generic.none لا أحد
+generic.connecting ...يتم الاتصال
+generic.select حدد
+generic.delete حذف
 generic.save Save
 generic.load Load
 generic.search Search
