@@ -17,53 +17,53 @@ generic.none لا أحد
 generic.connecting ...يتم الاتصال
 generic.select حدد
 generic.delete حذف
-generic.save Save
-generic.load Load
-generic.search Search
-generic.leave Leave
-generic.default Default
-generic.submit Submit
-generic.create Create
-generic.random Random
-generic.failed Failed
-generic.success Success!
-generic.name Name
-generic.level Level
-generic.score Score
-generic.off Off
-generic.defeat DEFEAT
-generic.victory VICTORY
-generic.matchover MATCH OVER
-generic.matchaband MATCH ABANDONED
-generic.follow Follow
-generic.unfollow Unfollow
-generic.followers Followers
-generic.following following
-generic.games Games
-generic.wins Wins
-generic.lose Losses
-generic.clan Clan
-generic.games.played Games Played
-generic.games.won Games Won
-generic.games.lost Games Lost
-generic.timep Time Played
-generic.kills Kills
-generic.deaths Deaths
-generic.kdr KDR
-generic.time Time
-generic.logout Logout
-generic.logout.sessions Logout of all Sessions
-generic.username Enter Username
-generic.password Enter Password
-generic.register Register
-generic.login Login
-generic.accuracy Accuracy
-player.waiting waiting for players
-player.died You died
-player.killed Killed By
+generic.save حفظ
+generic.load حمل
+generic.search ابحث
+generic.leave خروج
+generic.default افتراضي
+generic.submit ارسل
+generic.create اصنع
+generic.random عشوائي
+generic.failed فشل
+generic.success !نجح
+generic.name الاسم
+generic.level المستوى
+generic.score النقاط
+generic.off مغلق
+generic.defeat هزيمة
+generic.victory فوز
+generic.matchover انتهت المباراة
+generic.matchaband المباراةهجرت
+generic.follow تابع
+generic.unfollow الغ المتابعة
+generic.followers المتابِعون
+generic.following المتابَعون
+generic.games الألعاب
+generic.wins الانتصارات
+generic.lose الخسارات
+generic.clan عشيرة
+generic.games.played مرات اللعب
+generic.games.won مرات الفوز
+generic.games.lost مرات الخسارة
+generic.timep وقت اللعب
+generic.kills عدد القتلى
+generic.deaths مرات الموت
+generic.kdr نسبة القتل إلى الموت
+generic.time الوقت
+generic.logout تسجيل الخروج
+generic.logout.sessions تسجيل الخروج من جميع الجلسات
+generic.username ضع اسم المستخدم
+generic.password ضع كلمة السر
+generic.register سجل
+generic.login سجل الدخول
+generic.accuracy الدقة
+player.waiting بانتظار اللاعبين
+player.died لقد مت
+player.killed تم قتلك بواسطة
 player.killstreak {0} on a {1} Kill Streak
-player.inactive Kicked for inactivity
-player.disconnect DISCONNECTED
+player.inactive تم طردك لعدم النشاط
+player.disconnect انقطع الاتصال
 timer.end Next Round in {0}
 leaderboard.empty Empty Lobby
 popup.checkpoint Checkpoint!
