@@ -183,9 +183,9 @@ settings.interface.oldBrowser استخدم المتصفح القديم
 settings.interface.rarityanim تعطيل رسوم الندرة المتحركة
 settings.interface.showPfp إظهار صور الملف الشخصي
 settings.interface.showTradeMsg اظهار رسائل المتاجرة 
-settings.interface.hideNonTrade إخفاء الأشكال غير القابلة للتداول
+settings.interface.hideNonTrade إخفاء الأشكال غير القابلة للمتاجرة
 settings.interface.hp Dynamic HP Bars
-settings.interface.dmgScale Damage Scale
+settings.interface.dmgScale حجم الضرر
 settings.interface.killf Show Kill Feed
 settings.interface.ping Show Ping
 settings.interface.net-stats Show Network Stats
