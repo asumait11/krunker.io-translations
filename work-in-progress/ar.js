@@ -1,5 +1,5 @@
 module.exports = `
-menu.btn.ranked لعب المرتبة
+menu.btn.ranked لعب المرتبات
 menu.btn.shop المتجر
 menu.btn.social المركز الاجتماعي
 menu.btn.maps الألعاب
@@ -64,32 +64,32 @@ player.killed تم قتلك بواسطة
 player.killstreak {0} on a {1} Kill Streak
 player.inactive تم طردك لعدم النشاط
 player.disconnect انقطع الاتصال
-timer.end Next Round in {0}
-leaderboard.empty Empty Lobby
-popup.checkpoint Checkpoint!
-app.play CLICK TO PLAY
-app.spectate CLICK TO SPECTATE
-app.play.mobile TAP TO PLAY
-app.spectate.mobile TAP TO SPECTATE
-app.play.controller PRESS START
-app.spectate.controller START to SPECTATE
-purchase.error Error occurred
-purchase.error.click click here</a> and try again!
-purchase.error.limit You may have exceeded your daily transaction limit
-settings.reset Reset
-settings.reset.confirm Are you sure you want to reset all your settings?
-settings.import Import
-settings.export Export
-settings.none No settings found
-settings.backup Backup Settings
-settings.controls.change Keybinds
-settings.controls.press Press any Key
+timer.end الجولة القادمة خلال {0}
+leaderboard.empty بهو فارغ
+popup.checkpoint نقطة التحقق
+app.play اضغط لتلعب
+app.spectate اضغط للاطلاع
+app.play.mobile المس للعب
+app.spectate.mobile المس للاطلاع
+app.play.controller اضغط بدء
+app.spectate.controller اضغط بدء للاطلاع
+purchase.error حدث خطأ
+purchase.error.click اضغط هنا</a>!واعد المحاولة
+purchase.error.limit ربما تكون قد تجاوزت حد معاملاتك اليومي
+settings.reset اعادة ضبط
+settings.reset.confirm هل أنت متأكد أنك تريد إعادة تعيين كافة الإعدادات الخاصة بك؟
+settings.import استورد
+settings.export صدر
+settings.none لم يتم العثور على إعدادات
+settings.backup إعدادات النسخ الاحتياطي
+settings.controls.change ادارة
+settings.controls.press اضغط أي زر
 settings.controls.leaderboard InGame Leaderboard Trigger Type
 settings.controls.voicechat Voicechat Trigger Type
-settings.local.header Localization <span id="requiresRestart"><span style="color: #eb5656">*</span> requires restart</span>
-settings.local.region Default Region
-settings.local.lang Language
-settings.network.header Network
+settings.local.header الموقع <span id="requiresRestart"><span style="color: #eb5656">*</span> يتطلب إعادة التشغيل</span>
+settings.local.region المنطقة الافتراضية
+settings.local.lang اللغة
+settings.network.header الانترنت
 settings.network.netRerouting Auto Routing (Affects Ping)
 settings.network.netRate Network Rate (Hz)
 settings.network.lagComp Lag Compensation
