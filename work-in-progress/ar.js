@@ -91,99 +91,99 @@ settings.local.region المنطقة الافتراضية
 settings.local.lang اللغة
 settings.network.header الانترنت
 settings.network.netRerouting Auto Routing (Affects Ping)
-settings.network.netRate Network Rate (Hz)
-settings.network.lagComp Lag Compensation
-settings.network.optNet Optimized Networking
-settings.network.quickplay Force Quickplay
-settings.popup.header Popups
-settings.experimental.header Experimental
-settings.experimental.holiday Holiday Effects
-settings.experimental.aimFreezeFix Aim Freeze Fix
-settings.experimental.mouseFlickFix Mouse Flick Fix
+settings.network.netRate معدل الشبكة (هرتز)
+settings.network.lagComp تعويض التأخر
+settings.network.optNet شبكة محسنة
+settings.network.quickplay فرض اللعب اسريع
+settings.popup.header النوافذ المنبثقة
+settings.experimental.header تجريبي
+settings.experimental.holiday تأثيرات العطلات
+settings.experimental.aimFreezeFix اصلاح تجميد الهدف
+settings.experimental.mouseFlickFix اصلاح نقرات الفأرة
 settings.experimental.shaderRendering Instance Rendering
-settings.experimental.mouseAccel Mouse Acceleration
+settings.experimental.mouseAccel تسارع الفأرة
 settings.experimental.tbInterp TB Interpolation
-settings.client.header Client
-settings.client.unlimitedFrames Unlimited FPS
-settings.client.gameCap Game Capture
-settings.client.experimental Experimental Features
+settings.client.header المشغل
+settings.client.unlimitedFrames لا نهائي FPS
+settings.client.gameCap التقاط اللعبة
+settings.client.experimental الميزات التجريبية
 settings.client.discordRPC Discord RPC
-settings.client.resourceSwapper Resource Swapper
-settings.client.clearCache Clear Cache
-settings.client.resetSettings Reset Client Settings
-settings.client.acceleratedCanvas Accelerated Canvas
-settings.client.angleBackend ANGLE Graphics Backend
-settings.client.colorProfile Color Profile
-settings.client.resourcePacks Resource Packs
-settings.dev.header Developer
-settings.dev.forceUpdate Force Update Skins
-settings.dev.forceRegen Always Regenerate Player
-settings.dev.extraBan Extra Ban Info
-settings.chat.header Chat
-settings.chat.chat Show Chat Box
-settings.chat.chat.all Always
-settings.chat.chat.focus While Focused
-settings.chat.messages Show Player Messages
-settings.chat.unboxings Show Unboxings
-settings.chat.chatOp Chat Opacity
-settings.chat.chatBGOp Chat BG Opacity
-settings.chat.chatHeight Chat Height
-settings.chat.chatTimer Chat Timer (s)
-settings.chat.chatTextOutline Chat Text Outline
-settings.chat.chatFilter Profanity Filter
-settings.quality.header Performance
-settings.quality.updRate Frame Cap
-settings.quality.rendDst Render Distance
-settings.quality.res Resolution
-settings.quality.part Particles
-settings.quality.mapDet Map Details
-settings.quality.noTex No Textures
-settings.quality.partdist Particle Distance
-settings.quality.renderdist Render Distance
-settings.quality.reflection Reflection Quality
-settings.quality.antiAlias Antialiasing
-settings.quality.shadows Shadows
-settings.quality.softShad Soft Shadows
-settings.quality.highResShad High-Res Shadows
-settings.quality.shadowsDynamic Dynamic Shadows
-settings.quality.trails Bullet Trails
-settings.quality.yourTrails Your Trails
+settings.client.resourceSwapper مبدل المصادر
+settings.client.clearCache مسح ذاكرة التخزين المؤقت
+settings.client.resetSettings إعادة تعيين إعدادات المشغل
+settings.client.acceleratedCanvas كانفاس مسرع
+settings.client.angleBackend خلفية زاوية الرسومات
+settings.client.colorProfile ملف تعريف اللون
+settings.client.resourcePacks حزم الموارد
+settings.dev.header مطور
+settings.dev.forceUpdate فرض تحديث الأشكال
+settings.dev.forceRegen قم دائمًا بإعادة إنشاء اللاعب
+settings.dev.extraBan معلومات الحظر الإضافية
+settings.chat.header المحادثة
+settings.chat.chat إظهار صندوق الدردشة
+settings.chat.chat.all دائمًا
+settings.chat.chat.focus أثناء التركيز
+settings.chat.messages اظهر رسائل اللاعب
+settings.chat.unboxings اظهر فتح الصناديق
+settings.chat.chatOp عتامة الدردشة
+settings.chat.chatBGOp عتمة خلفية الدردشة
+settings.chat.chatHeight ارتفاع الدردشة
+settings.chat.chatTimer مؤقت الدردشة (ث)
+settings.chat.chatTextOutline مخطط نص الدردشة
+settings.chat.chatFilter مرشح الألفاظ السيئة
+settings.quality.header أداء
+settings.quality.updRate حد الإطار
+settings.quality.rendDst تقديم المسافة
+settings.quality.res دقة الوضوح
+settings.quality.part الجسيمات الخارجية
+settings.quality.mapDet تفاصيل الخريطة
+settings.quality.noTex لا نسيج
+settings.quality.partdist مسافة الجسيمات الخارجية
+settings.quality.renderdist مسافة التكوين
+settings.quality.reflection جودة الانعكاس
+settings.quality.antiAlias الحواف
+settings.quality.shadows الظلال
+settings.quality.softShad الظلال الناعمة
+settings.quality.highResShad ظلال عالية الدقة
+settings.quality.shadowsDynamic الظلال المتحركة
+settings.quality.trails مسار الرصاصة
+settings.quality.yourTrails مساراتك
 settings.quality.mflash Muzzle Flash
-settings.quality.flap Show Sniper Flap
-settings.quality.lowSpec Low Spec
-settings.quality.ambient Ambient Shading
-settings.quality.ambientOld Old Shading (When Possible)
-settings.quality.textureAnim Texture Animations
-settings.quality.objectAnim Object Animations
-settings.quality.screenShake Screen Shake
-settings.quality.weaponShine Weapons Shine
-settings.quality.rendGamma Gamma
-settings.quality.lighting Lighting
-settings.quality.showExplo Show Explosions
-settings.quality.aspectRatio Aspect Ratio
-settings.post.header Post Processing
-settings.post.post Post Processing
-settings.post.bloom Bloom
-settings.post.bloomThreshold Bloom Threshold
-settings.post.bloomStrength Bloom Strength
-settings.post.bloomRadius Bloom Radius
+settings.quality.flap اظهار 
+settings.quality.lowSpec مواصفات منخفضة
+settings.quality.ambient التظليل المحيط
+settings.quality.ambientOld التظليل القديم (عند الاستطاعة)
+settings.quality.textureAnim تركيب الرسوم المتحركة
+settings.quality.objectAnim الرسوم المتحركة للكائنات
+settings.quality.screenShake اهتزاز الشاشة
+settings.quality.weaponShine لمعان السلاح
+settings.quality.rendGamma جاما
+settings.quality.lighting اضائة
+settings.quality.showExplo اظهار الانفجارات
+settings.quality.aspectRatio نسبة العرض إلى الارتفاع
+settings.post.header معالجة النشر
+settings.post.post معالج النشر
+settings.post.bloom ازدهار
+settings.post.bloomThreshold عتبة الازدهار
+settings.post.bloomStrength قوة الازدهار
+settings.post.bloomRadius نصف قطر الازدهار
 settings.post.ssao SSAO
-settings.post.ssaoRadius SSAO Radius
-settings.interface.hitInd Show Hit Indicators
-settings.interface.hitColor Hit Indicator Color
-settings.interface.dmg Show Damage
-settings.interface.dmgCol Damage Color
-settings.interface.critCol Crit Color
-settings.interface.header Interface
-settings.interface.scale UI Scale
-settings.interface.theme Game Theme
-settings.interface.ui Show UI
-settings.interface.scoreboard Use Old Scoreboard
-settings.interface.oldBrowser Use Old Browser
-settings.interface.rarityanim Disable Rarity Animations
-settings.interface.showPfp Show Profile Pictures
-settings.interface.showTradeMsg Show Trade Messages
-settings.interface.hideNonTrade Hide Non-Tradable Skins
+settings.post.ssaoRadius SSAO نصف قطر
+settings.interface.hitInd إظهار مؤشرات الضربات
+settings.interface.hitColor لون مؤشر ضرب 
+settings.interface.dmg إظهار الضرر
+settings.interface.dmgCol لون الضرر
+settings.interface.critCol لون الضرر البالغ
+settings.interface.header واجهة
+settings.interface.scale حجم واجهة المستخدم
+settings.interface.theme ثيم اللعبة
+settings.interface.ui اظهار واجهة المستخدم
+settings.interface.scoreboard استخدم لوحة النتائج القديمة
+settings.interface.oldBrowser استخدم المتصفح القديم
+settings.interface.rarityanim تعطيل رسوم الندرة المتحركة
+settings.interface.showPfp إظهار صور الملف الشخصي
+settings.interface.showTradeMsg اظهار رسائل المتاجرة 
+settings.interface.hideNonTrade إخفاء الأشكال غير القابلة للتداول
 settings.interface.hp Dynamic HP Bars
 settings.interface.dmgScale Damage Scale
 settings.interface.killf Show Kill Feed
